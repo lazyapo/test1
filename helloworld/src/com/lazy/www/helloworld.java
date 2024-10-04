@@ -23,6 +23,7 @@ public class helloworld
             else
             {
                 System.out.println("未猜中a");
+                System.out.println("hot");
             }
         }
         System.out.println(a);
