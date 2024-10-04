@@ -23,6 +23,7 @@ public class helloworld
             else
             {
                 System.out.println("未猜中ab");
+                System.out.println("master");
             }
         }
         System.out.println(a);
