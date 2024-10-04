@@ -25,6 +25,7 @@ public class helloworld
                 System.out.println("未猜中a");
                 System.out.println("未猜中a");
                 System.out.println("hot");
+                System.out.println("GitHub");
             }
         }
         System.out.println(a);
